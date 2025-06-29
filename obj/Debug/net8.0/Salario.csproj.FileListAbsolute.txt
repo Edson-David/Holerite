@@ -12,3 +12,18 @@ C:\Users\edson\Documents\C#\A Parte\Nova pasta\Salario\obj\Debug\net8.0\refint\S
 C:\Users\edson\Documents\C#\A Parte\Nova pasta\Salario\obj\Debug\net8.0\Salario.pdb
 C:\Users\edson\Documents\C#\A Parte\Nova pasta\Salario\obj\Debug\net8.0\Salario.genruntimeconfig.cache
 C:\Users\edson\Documents\C#\A Parte\Nova pasta\Salario\obj\Debug\net8.0\ref\Salario.dll
+C:\Users\edson\Documents\CSharp\A Parte\Salario\bin\Debug\net8.0\Salario.exe
+C:\Users\edson\Documents\CSharp\A Parte\Salario\bin\Debug\net8.0\Salario.deps.json
+C:\Users\edson\Documents\CSharp\A Parte\Salario\bin\Debug\net8.0\Salario.runtimeconfig.json
+C:\Users\edson\Documents\CSharp\A Parte\Salario\bin\Debug\net8.0\Salario.dll
+C:\Users\edson\Documents\CSharp\A Parte\Salario\bin\Debug\net8.0\Salario.pdb
+C:\Users\edson\Documents\CSharp\A Parte\Salario\obj\Debug\net8.0\Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edson\Documents\CSharp\A Parte\Salario\obj\Debug\net8.0\Salario.AssemblyInfoInputs.cache
+C:\Users\edson\Documents\CSharp\A Parte\Salario\obj\Debug\net8.0\Salario.AssemblyInfo.cs
+C:\Users\edson\Documents\CSharp\A Parte\Salario\obj\Debug\net8.0\Salario.csproj.CoreCompileInputs.cache
+C:\Users\edson\Documents\CSharp\A Parte\Salario\obj\Debug\net8.0\Salario.sourcelink.json
+C:\Users\edson\Documents\CSharp\A Parte\Salario\obj\Debug\net8.0\Salario.dll
+C:\Users\edson\Documents\CSharp\A Parte\Salario\obj\Debug\net8.0\refint\Salario.dll
+C:\Users\edson\Documents\CSharp\A Parte\Salario\obj\Debug\net8.0\Salario.pdb
+C:\Users\edson\Documents\CSharp\A Parte\Salario\obj\Debug\net8.0\Salario.genruntimeconfig.cache
+C:\Users\edson\Documents\CSharp\A Parte\Salario\obj\Debug\net8.0\ref\Salario.dll
