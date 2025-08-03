@@ -58,7 +58,7 @@ namespace Salario.Descontos
                 }
             }
             while (!string.IsNullOrWhiteSpace(input) && input != "0");
-            
+
             if (descontoAdicional == 0)
             {
                 Console.WriteLine("Sem mais valores para desconto");

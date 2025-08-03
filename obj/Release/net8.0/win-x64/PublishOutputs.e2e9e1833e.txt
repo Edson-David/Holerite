@@ -1,0 +1,5 @@
+C:\Users\Edson\Documents\CSharp\A Parte\Salario - Copia\bin\Release\net8.0\win-x64\publish\Salario.exe
+C:\Users\Edson\Documents\CSharp\A Parte\Salario - Copia\bin\Release\net8.0\win-x64\publish\Salario.dll
+C:\Users\Edson\Documents\CSharp\A Parte\Salario - Copia\bin\Release\net8.0\win-x64\publish\Salario.deps.json
+C:\Users\Edson\Documents\CSharp\A Parte\Salario - Copia\bin\Release\net8.0\win-x64\publish\Salario.runtimeconfig.json
+C:\Users\Edson\Documents\CSharp\A Parte\Salario - Copia\bin\Release\net8.0\win-x64\publish\Salario.pdb
